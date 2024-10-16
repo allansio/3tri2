@@ -56,7 +56,7 @@ criaCartao(
     criaCartao(
     'Geografia',
     'Qual a capital de Antígua e Barbuda?',
-    'Saint John´s')
+    'Saint Johns')
     
     criaCartao(
     'Geografia',
@@ -97,4 +97,3 @@ criaCartao(
     'Geografia',
     'Em qual pais fica o Vale do Silício?',
     'Estados Unidos')
-    
