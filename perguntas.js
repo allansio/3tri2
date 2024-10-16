@@ -3,7 +3,7 @@ criaCartao(
     'Quem foi o ditador do Brasil em 1944?',
     'Getúlio Vargas')
     
-riaCartao(
+criaCartao(
     'História',
     'Quando foi a segunda guerra mundial?  ',
     '1939-1945')
