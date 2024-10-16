@@ -4,10 +4,12 @@ function criaCartao(){
     cartao.className ='cartao';
     cartao.innerHTML = `
     <div class="conteudoCartao">
-    <h3>categoria</h3>
+    <h3>${categoria}</h3>
     <div class="perguntaCartao">
-       <p>pergunta</p>
+       <p>${pergunta}</p>
     </div>
+    <div class="resposta-cartao">
+      <p>${resposta}</p>
 </div>`;
 container .appendChild(cartao);
 
