@@ -3,9 +3,9 @@ function criaCartao(){
     let cartao = document.createElement('article');
     cartao.className ='cartao';
     cartao.innerHTML = `
-    <div class="conteudoCartao">
+    <div class="conteudo-cartao">
     <h3>${categoria}</h3>
-    <div class="perguntaCartao">
+    <div class="pergunta-cartao">
        <p>${pergunta}</p>
     </div>
     <div class="resposta-cartao">
