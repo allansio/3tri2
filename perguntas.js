@@ -3,97 +3,97 @@ criaCartao(
     'Quem foi o ditador do Brasil em 1944?',
     'Getúlio Vargas')
     
-    criaCartao(
+riaCartao(
     'História',
     'Quando foi a segunda guerra mundial?  ',
     '1939-1945')
     
-    criaCartao(
+criaCartao(
     'História',
     'Quando foi a primeira guerra mundial?',
     '1914-1918')
     
-    criaCartao(
+criaCartao(
     'História',
     'Quem era o ditador da Alemanha em 1939?',
     'Adolf Hitler')
     
-    criaCartao(
+criaCartao(
     'História',
     'Quem era o ditador da Itália em 1939? ',
     'Benito Mussolini')
     
-    criaCartao(
+criaCartao(
     'História',
     'Quem era o ditador da União Soviética em 1939?',
     'Stalin')
     
-    criaCartao(
+criaCartao(
     'História',
     'Quem era o ditador da Espanha em 1939?',
     'General Franco')
     
-    criaCartao(
+criaCartao(
     'História',
     'Quem era o ditador de Portugal em 1939?',
     'Salazar')
     
-    criaCartao(
+criaCartao(
     'História',
     'Qual país fez a primeira bomba atômica?',
     'Estados Unidos')
     
-    criaCartao(
+criaCartao(
     'História',
     'Qual país recebeu a primeira bomba atômica?',
     'Japão')
 
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual é a capital do Canadá?',
     'Ottawa')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual a capital de Antígua e Barbuda?',
     'Saint Johns')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual a capital de Nicarágua? ',
     'Manágua')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual a capital de Burkina Faso?',
     'Uagadugu')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual a capital do Butão?',
     'Timbu')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual é o país mais populoso do mundo?',
     'Índia')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual é o país menos populoso do mundo?',
     'Vaticano')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Qual é o o país onde ocorreu a Primeira Revolução industrial? ',
     'Inglaterra')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Em qual país ocorreu a Revolta da Vacina?',
     'Brasil')
     
-    criaCartao(
+criaCartao(
     'Geografia',
     'Em qual pais fica o Vale do Silício?',
     'Estados Unidos')
