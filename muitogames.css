@@ -1,6 +1,6 @@
 :root{
     --fundo: #87CEFA;
-    --cartao-frente:#0000FF;
+    --cartao-frente:#9900ff;
     --cartao-verso:	#4682B4;
     --destaque:#00FFFF;
     --preto:#000000;
@@ -38,5 +38,10 @@
         display: grid;
         gap: 3rem;
         padding: 20px;
-        
+
+    }
+    .conteudo-cartao{
+        padding: 40px;
+        background-color: var(--cartao-frente);
+        box-shadow: 2px 2px 2px var(--fundo);
     }
