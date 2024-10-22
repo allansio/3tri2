@@ -43,5 +43,5 @@
     .conteudo-cartao{
         padding: 40px;
         background-color: var(--cartao-frente);
-        box-shadow: 2px 2px 2px var(--fundo);
+        box-shadow: 2px 2px 2px var(--preto);
     }
