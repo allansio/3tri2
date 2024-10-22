@@ -45,3 +45,7 @@
         background-color: var(--cartao-frente);
         box-shadow: 2px 2px 2px 3px var(--preto);
     }
+
+    .conteudo-cartao:hover{
+        transform: scale(1.02);
+    }
